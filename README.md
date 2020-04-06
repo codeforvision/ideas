@@ -6,7 +6,7 @@ Birgə layihələr üçün müxtəlif ideyalar.
 
 #### Yeni kollektiv layihəyə başlamaq istəyirsən?
 
-[İdeyanı təklif et](https://github.com/codeforvision/ideas/issues/new)
+[İdeyanı təklif et](https://github.com/codeforvision/ideas/issues/new?template=new-idea-template.md&title=Yeni+ideya%3A%20)
 
 #### Mövcüd olan layihəyə qoşulmaq istəyirsən?
 

@@ -26,7 +26,7 @@ assignees: ''
 [Burada cavab]
 
 
-### Hal hazırda eyni ehtiyacı təmin edə biləcək hansı resurslar/vasitələr var?
+### Hal-hazırda eyni ehtiyacı təmin edə biləcək hansı resurslar/vasitələr var?
 
 [Burada cavab]
 
@@ -36,7 +36,7 @@ assignees: ''
 [Burada cavab]
 
 
-### İdeyanı gercəkləşdirməkdə hansı çətinliklər ola bilər?
+### İdeyanı gerçəkləşdirməkdə hansı çətinliklər ola bilər?
 
 [Burada cavab]
 
@@ -46,11 +46,11 @@ assignees: ''
 [Burada cavab]
 
 
-### İdeyanı gercəkləşdirməkdə hansı yardıma ehtiyacınız var?
+### İdeyanı gerçəkləşdirməkdə hansı yardıma ehtiyacınız var?
 
 [Burada cavab]
 
 
-### İdeyanı gercəkləşdirməkdə addımlar (tədqiqat, prototip, dizayn, kod və s.) nələrdir?
+### İdeyanı gerçəkləşdirməkdə addımlar (tədqiqat, prototip, dizayn, kod və s.) nələrdir?
 
 [Burada cavab]
